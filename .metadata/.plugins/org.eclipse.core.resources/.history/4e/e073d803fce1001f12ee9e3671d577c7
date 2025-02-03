@@ -1,0 +1,35 @@
+/**
+ * 
+ */
+package wipro_java_project_oops;
+
+/**Parent class=Employee
+ * Child class=ProjectLead
+ * Extends is a keyword
+ * 
+ */
+public class ProjectLead extends Employee
+{
+
+
+	public ProjectLead() {
+		// TODO Auto-generated constructor stub
+	}
+
+
+	public static void main(String a[]) {
+
+		Employee employee=new ProjectLead();
+		employee.setempId(1234);
+		employee.setempName("Ravi");
+		employee.setage(23);
+		employee.designation("ProjectLead");
+		
+		System.out.println(employee.getempId());
+		System.out.println(employee.getempName());
+		System.out.println(employee.getage());
+		System.out.println(employee.getdesignation());
+		;
+	}
+
+}

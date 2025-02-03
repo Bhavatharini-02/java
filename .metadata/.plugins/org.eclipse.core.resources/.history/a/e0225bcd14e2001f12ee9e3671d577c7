@@ -1,0 +1,22 @@
+package wipro_java_project_oops;
+public class Innova extends Car {
+	   @Override
+
+
+	public void displayCarDetails() {
+        System.out.println("This is a Sedan: " + getModel() +" from year " + getYear());
+        		
+
+	}
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        	Car innovaCar=new Innova();
+        	innovaCar.setModel("Innova");
+        	innovaCar.setYear(2022);
+        	innovaCar.displayCarDetails();
+        	
+
+	}
+
+}
+

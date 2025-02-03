@@ -1,0 +1,22 @@
+package wipro_java_project_oops;
+
+public class Innova extends Car {
+    
+    // Constructor matching the parent class Car
+    public Innova(String make, String model, int year) {
+        super( model, year); 
+    }
+
+
+    @Override
+    public void displayCarDetails() {
+        System.out.println("This is an Innova: " + getModel() + " from year " + getYear());
+    }
+
+    public static void main(String[] args) {
+  
+        Car innovaCar = new Innova("Toyota", "Innova Crysta", 2022);
+        innovaCar.displayCarDetails();  
+    }
+}
+
