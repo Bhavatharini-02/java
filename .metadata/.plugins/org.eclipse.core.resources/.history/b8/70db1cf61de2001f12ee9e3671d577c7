@@ -1,0 +1,9 @@
+package wipro_java_project_oops_abstraction;
+
+public class Sedan {
+
+	public Sedan() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
