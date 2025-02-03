@@ -1,0 +1,9 @@
+package com.wipro.java;
+
+public class Pojo {
+
+	public Pojo() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

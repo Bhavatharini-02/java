@@ -1,0 +1,12 @@
+package com.wipro.java;
+
+public class Pojo {
+	private int empID
+	private String employee_name;
+	
+
+	public Pojo() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
