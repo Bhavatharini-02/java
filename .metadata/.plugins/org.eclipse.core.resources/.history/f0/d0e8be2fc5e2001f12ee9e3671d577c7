@@ -1,0 +1,9 @@
+package wipro_java_project_oops_library_management;
+
+public class LibrarySystem {
+
+	public LibrarySystem() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
