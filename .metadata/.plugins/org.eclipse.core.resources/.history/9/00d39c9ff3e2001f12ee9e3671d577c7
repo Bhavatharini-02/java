@@ -1,0 +1,9 @@
+package com.wipro.java.interface1;
+
+public class Printable {
+
+	public Printable() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

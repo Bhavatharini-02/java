@@ -1,0 +1,9 @@
+package com.wipro.java.interface1;
+
+public class Showable {
+
+	public Showable() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

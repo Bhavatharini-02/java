@@ -1,0 +1,9 @@
+package com.wipro.java.interface1;
+
+public class Document {
+
+	public Document() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
