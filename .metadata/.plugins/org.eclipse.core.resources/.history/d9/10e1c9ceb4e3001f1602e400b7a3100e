@@ -1,0 +1,58 @@
+package com.wipro.java.collection;
+import java.util.*;
+public class CollectionsExample {
+    private Map<Integer, String> hashMap;
+    private LinkedList<String> linkedList;
+    private String[] array;
+    private List<String> arrayList;
+
+    public CollectionsExample() {
+        // Initializing the collections
+        hashMap = new HashMap<>();
+        linkedList = new LinkedList<>();
+        array = new String[3]; // Fixed-size array
+        arrayList = new ArrayList<>();
+    }
+
+    public void populateCollections() {
+        // Populating HashMap
+        hashMap.put(1, "Apple");
+        hashMap.put(2, "Banana");
+        hashMap.put(3, "Cherry");
+
+        // Populating LinkedList
+        linkedList.add("Red");
+        linkedList.add("Blue");
+        linkedList.add("Green");
+
+        // Populating Array
+        array[0] = "One";
+        array[1] = "Two";
+        array[2] = "Three";
+
+        // Populating ArrayList
+        arrayList.add("Car");
+        arrayList.add("Bike");
+        arrayList.add("Bus");
+    }
+
+    public void displayCollections() {
+        // Displaying HashMap
+        System.out.println("HashMap: " + hashMap);
+
+        // Displaying LinkedList
+        System.out.println("LinkedList: " + linkedList);
+
+        // Displaying Array
+        System.out.println("Array: " + Arrays.toString(array));
+
+        // Displaying ArrayList
+        System.out.println("ArrayList: " + arrayList);
+    }
+
+    public static void main(String[] args) {
+        CollectionsExample example = new CollectionsExample();
+        example.populateCollections();
+        example.displayCollections();
+    }
+}
