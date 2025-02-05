@@ -1,0 +1,9 @@
+package wipro_java_project_oops;
+
+public class Library {
+
+	public Library() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

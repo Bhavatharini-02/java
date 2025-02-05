@@ -1,0 +1,9 @@
+package com.wipro.java.interface1;
+
+public class Cat {
+
+	public Cat() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

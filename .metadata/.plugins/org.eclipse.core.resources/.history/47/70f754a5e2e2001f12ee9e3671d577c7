@@ -1,0 +1,9 @@
+package com.wipro.java.exception;
+
+public class UnCheckedException {
+
+	public UnCheckedException() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
