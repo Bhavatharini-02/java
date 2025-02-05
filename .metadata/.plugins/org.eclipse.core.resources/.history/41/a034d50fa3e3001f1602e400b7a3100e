@@ -1,0 +1,19 @@
+/**
+ * 
+ */
+package com.wipro.java.collection;
+
+import java.util.LinkedList;
+
+class LinkedListTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		int n=5;
+		List<Integer> l1=new ArrayList<Integer>();
+		
+		
+
+	}
+
+}

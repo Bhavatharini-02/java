@@ -1,0 +1,9 @@
+package com.wipro.java.collection;
+
+public class MapCode {
+
+	public MapCode() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
