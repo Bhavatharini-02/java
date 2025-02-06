@@ -12,7 +12,7 @@ public class Adjust {
 		LocalDate date = LocalDate.now();
 		System.out.println("The current date is:" + date);
 		
-		//first day of next month
+		//first date of next month
 		LocalDate dayOfNextMonth = date.with(TemporalAdjusters.firstDayOfMonth());
 		System.out.println("First day of next month is:" + dayOfNextMonth);
 		
