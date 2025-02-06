@@ -1,0 +1,9 @@
+package com.wipro.java;
+
+public class Year {
+
+	public Year() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
