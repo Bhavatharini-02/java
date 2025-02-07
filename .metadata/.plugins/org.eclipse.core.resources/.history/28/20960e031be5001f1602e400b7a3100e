@@ -1,0 +1,9 @@
+package com.wipro.java.collection;
+
+public class ForEach {
+
+	public ForEach() {
+		// TODO Auto-generated constructor stub
+	}
+
+}
