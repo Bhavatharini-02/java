@@ -1,0 +1,9 @@
+package com.wipro.java.java8.usecase;
+
+public class Employee {
+
+	public Employee() {
+		// TODO Auto-generated constructor stub
+	}
+
+}

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="EmployeeServiceTest" project="wipro_java_project" tests="8" started="8" failures="0" errors="0" ignored="0">
+  <testsuite name="com.wipro.java.junit.test.EmployeeServiceTest" time="0.003">
+    <testcase name="testSortByName" classname="com.wipro.java.junit.test.EmployeeServiceTest" time="0.002"/>
+    <testcase name="testRemoveEmployee" classname="com.wipro.java.junit.test.EmployeeServiceTest" time="0.001"/>
+    <testcase name="testAddEmployee" classname="com.wipro.java.junit.test.EmployeeServiceTest" time="0.0"/>
+    <testcase name="testUpdateSalary" classname="com.wipro.java.junit.test.EmployeeServiceTest" time="0.0"/>
+    <testcase name="testGetAllEmployees" classname="com.wipro.java.junit.test.EmployeeServiceTest" time="0.0"/>
+    <testcase name="testFilterByDepartment" classname="com.wipro.java.junit.test.EmployeeServiceTest" time="0.0"/>
+    <testcase name="testGetAverageSalary" classname="com.wipro.java.junit.test.EmployeeServiceTest" time="0.0"/>
+    <testcase name="testSearchEmployee" classname="com.wipro.java.junit.test.EmployeeServiceTest" time="0.0"/>
+  </testsuite>
+</testrun>
