@@ -41,4 +41,3 @@ public class Product {
                 ", ManufactureDate=" + manufactureDate + " }";
     }
 }
-
