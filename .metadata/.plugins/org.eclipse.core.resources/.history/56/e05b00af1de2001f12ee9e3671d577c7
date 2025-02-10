@@ -1,4 +1,0 @@
-package wipro_java_project_oops;
-
-public class Innova extends Car {
-    

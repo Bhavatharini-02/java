@@ -1,9 +1,0 @@
-package wipro_java_project_oops_encapsulation;
-
-public class Animal {
-
-	public Animal() {
-		// TODO Auto-generated constructor stub
-	}
-
-}
