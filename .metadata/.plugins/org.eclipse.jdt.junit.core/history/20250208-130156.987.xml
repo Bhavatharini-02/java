@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?><testrun name="CalculatorTest" project="wipro_java_project" tests="4" started="4" failures="0" errors="0" ignored="0">
-  <testsuite name="com.wipro.java.junit.CalculatorTest" time="0.004">
-    <testcase name="testAdd" classname="com.wipro.java.junit.CalculatorTest" time="0.004"/>
-    <testcase name="testSubtract" classname="com.wipro.java.junit.CalculatorTest" time="0.0"/>
-    <testcase name="testAddWithNegativeNumbers" classname="com.wipro.java.junit.CalculatorTest" time="0.0"/>
-    <testcase name="testSubtractWithNegativeNumbers" classname="com.wipro.java.junit.CalculatorTest" time="0.0"/>
-  </testsuite>
-</testrun>
