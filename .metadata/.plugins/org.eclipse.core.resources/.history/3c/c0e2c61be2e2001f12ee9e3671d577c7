@@ -1,9 +1,0 @@
-package com.wipro.java.exception;
-
-public class CheckedException {
-
-	public CheckedException() {
-		// TODO Auto-generated constructor stub
-	}
-
-}

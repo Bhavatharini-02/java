@@ -1,9 +1,0 @@
-package wipro_java_project_oops;
-
-public class LibraryItem {
-
-	public LibraryItem() {
-		// TODO Auto-generated constructor stub
-	}
-
-}

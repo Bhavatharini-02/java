@@ -1,9 +1,0 @@
-package com.wipro.java.collection;
-
-public class Comparable {
-
-	public Comparable() {
-		// TODO Auto-generated constructor stub
-	}
-
-}

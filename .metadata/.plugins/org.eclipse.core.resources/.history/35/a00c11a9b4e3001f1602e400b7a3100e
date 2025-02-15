@@ -1,9 +1,0 @@
-package com.wipro.java.collection;
-
-public class CollectionsExample {
-
-	public CollectionsExample() {
-		// TODO Auto-generated constructor stub
-	}
-
-}

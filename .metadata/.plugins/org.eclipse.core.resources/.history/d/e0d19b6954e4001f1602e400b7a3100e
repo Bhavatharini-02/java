@@ -1,9 +1,0 @@
-package com.wipro.java.collection;
-
-public class Animal1 {
-
-	public Animal1() {
-		// TODO Auto-generated constructor stub
-	}
-
-}
