@@ -1,9 +1,0 @@
-package com.wipro.java.collection;
-
-public class Age {
-
-	public Age() {
-		// TODO Auto-generated constructor stub
-	}
-
-}

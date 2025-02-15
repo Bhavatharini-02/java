@@ -1,9 +1,0 @@
-package com.wipro.java.junit.test;
-
-public class EmployeeServiceTest {
-
-	public EmployeeServiceTest() {
-		// TODO Auto-generated constructor stub
-	}
-
-}

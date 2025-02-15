@@ -1,9 +1,0 @@
-package com.wipro.java.exception;
-
-public class ExceptionHandlingExample {
-
-	public ExceptionHandlingExample() {
-		// TODO Auto-generated constructor stub
-	}
-
-}

@@ -1,9 +1,0 @@
-package com.wipro.java.java8;
-
-public class EmployeeService {
-
-	public EmployeeService() {
-		// TODO Auto-generated constructor stub
-	}
-
-}

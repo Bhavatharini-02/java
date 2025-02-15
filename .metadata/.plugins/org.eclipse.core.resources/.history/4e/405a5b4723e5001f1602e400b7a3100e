@@ -1,3 +1,0 @@
-module wipro_java_project {
-	requires junit;
-}

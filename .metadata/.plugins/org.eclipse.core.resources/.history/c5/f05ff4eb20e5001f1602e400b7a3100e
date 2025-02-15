@@ -1,9 +1,0 @@
-package com.wipro.java.junit;
-
-public class CalculatorTest {
-
-	public CalculatorTest() {
-		// TODO Auto-generated constructor stub
-	}
-
-}
