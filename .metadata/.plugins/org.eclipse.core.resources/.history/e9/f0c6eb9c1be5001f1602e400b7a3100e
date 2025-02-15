@@ -1,9 +1,0 @@
-package com.wipro.java.java8;
-
-public class MinMax {
-
-	public MinMax() {
-		// TODO Auto-generated constructor stub
-	}
-
-}
